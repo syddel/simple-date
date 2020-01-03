@@ -13,7 +13,7 @@
 SimpleDate::SimpleDate()
 {
   this->clear();
-  this->initFromString("0000-12-30");
+  this->initFromString("0000-01-01");
 }
 
 // ----------------------------------------------------------------------------------
