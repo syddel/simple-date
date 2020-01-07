@@ -1,5 +1,5 @@
-#ifndef DATEHELPER_H
-#define DATEHELPER_H
+#ifndef SIMPLEDATE_H
+#define SIMPLEDATE_H
 
 #include <string>
 #include <ctime>
